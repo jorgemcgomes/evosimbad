@@ -1,0 +1,3 @@
+2013-03-18 20:20:43,524 [INFO ][org.jppf.client.AbstractGenericClient.newConnection(198)]: Connection [driver-1] created
+2013-03-18 20:20:43,637 [INFO ][org.jppf.client.ClassServerDelegateImpl.init(80)]: [client: driver-1] Attempting connection to the class server at jorge-labmag.local:11111
+2013-03-18 20:20:44,221 [INFO ][org.jppf.client.ClassServerDelegateImpl.init(90)]: [client: driver-1] Reconnected to the class server
